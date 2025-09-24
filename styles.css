@@ -1,13 +1,13 @@
-    .main {
-      width: 200px;
-      background-color: purple;
-      border-left: 5px solid green;
-      padding: 10px;
-    }
+.main {
+  width: 200px;
+  background-color: purple;
+  border-left: 5px solid green;
+  padding: 10px;
+}
 
-    /* Heading styling */
-    #heading.heading {
-      font-size: 20px;
-      color: white;
-      text-decoration: underline;
-    }
+#heading.heading {
+  font-size: 20px;
+  color: white;
+  text-decoration: underline;
+  margin: 0; /* removes default h1 spacing */
+}
