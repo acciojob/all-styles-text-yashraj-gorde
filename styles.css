@@ -7,7 +7,7 @@
 
 #heading {
   font-size: 20px !important;           /* override default h1 size */
-  color: rgb(255, 255, 255 !important;
+  color: rgb(255, 255, 255) !important;
   text-decoration: underline;
   margin: 0;                            /* reset default margin */
 }
